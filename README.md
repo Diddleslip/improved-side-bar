@@ -8,16 +8,16 @@
 ####
 ### Overall, a very satisfying solo project to improve upon exisiting Navbar built by me.
 
-#### Steps to recreate:
+### Steps to recreate:
 
-##### In console:
+#### In console:
 `
 npm install react-router-dom
 `
-###### Add these lines to the App.js file:
+##### Add these lines to the App.js file:
 `
 import { Link } from 'react-router-dom';
 `
-###### Implement Navbar component code in the project.
+##### Implement Navbar component code in the project.
 
 

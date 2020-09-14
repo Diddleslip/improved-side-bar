@@ -1,4 +1,4 @@
-# Improved-side-bar
+# Improved-side-bar Solo Project
 ### Second project to improve and try out new ideas for a sidebar.
 
 ### Things learned:

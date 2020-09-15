@@ -7,6 +7,9 @@
 * Link tags must be inside Router tags or else you will get an error
 
 ### Overall, a very satisfying solo project to improve upon exisiting Navbar built by me.
+![Picture of NavBar](https://files.slack.com/files-pri/TSZCHB482-F01AV5HNEBW/image.png)
+![Picture of NavBar Hovering over tab](https://files.slack.com/files-pri/TSZCHB482-F01AG7TNGTG/image.png)
+
 
 ### Steps to recreate:
 
